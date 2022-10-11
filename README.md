@@ -1,4 +1,4 @@
-# distributed-lock
+# distributed-lock-redis
 
 分布式锁: Redis + Golang实现
 
